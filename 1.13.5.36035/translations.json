@@ -1,0 +1,28 @@
+{
+  "zones": {
+    "ahnqiraj": 23,
+    "ahnqirajtemple": 24,
+    "azeroth": 1,
+    "blackwinglair": 11,
+    "cavernsoftime": -1,
+    "deadminesinstance": 3,
+    "development": -122,
+    "emeralddream": 13,
+    "kalimdor": 2,
+    "monasteryinstances": 14,
+    "pvpzone01": 15,
+    "pvpzone02": -1,
+    "pvpzone03": 33,
+    "pvpzone04": 34,
+    "razorfendowns": 6,
+    "razorfenkraulinstance": 7,
+    "schoolofnecromancy": 18,
+    "shadowfang": 7,
+    "stratholme": 19,
+    "stratholmeraid": -1,
+    "tanarisinstance": -1,
+    "zul'gurub": 21
+
+
+  }
+}
